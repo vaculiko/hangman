@@ -1,4 +1,4 @@
-hangman = {
+obesenec = {
     0: """
     -------^
            |
