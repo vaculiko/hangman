@@ -9,6 +9,7 @@ tajenka = len(slovo) * ["_"]
 
 # 3. Vyhodnocení výsledku hry
 
+print("Ahoj")
 # TODO: Úklid výpisu v konzoli - os.system("cls")
 
 # TODO: Vykreslení figurky
